@@ -14,9 +14,7 @@ En este repositorio, se presenta el sitio web realizado durante el curso de prog
 - Explicación de la solución tecnológica que están desarrollando
 > [!TIP]
 > Aprovechen los [formatos del README](https://docs.github.com/es/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax) para escribir diferentes secciones
-
 🎨 Moodboard
-
 🧩 Archivos generados con asistencia de IA: ```index.html```, ```style.css```, ```script.js```
 
 
