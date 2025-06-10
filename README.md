@@ -3,7 +3,7 @@ _Curso de Programación Asistida con IA - Chicas en Tecnología_ 🚀
 
 ```⚠️ Dejar la opción correcta entre "Ada Lovelace" (Grupo de 17 a 19hs) y "Grace Hopper" (Grupo de 19 a 21hs) y agregar un nombre de equipo ⚠️```
 
-En este repositorio, se presenta el sitio web realizado durante el curso de programación frontend de Chicas en tecnología.
+En este repositorio, se presenta el sitio web realizado durante el curso de programación frontend de CET.
 
 ### 📄 Entregas
 **Entrega #1**: planificación de la solución y primeros resultados que obtengamos con la IA:
