@@ -1,4 +1,4 @@
-## Curso Ada Lovelace / Grace Hopper - Grupo #{numero} {nombre}
+## Grupo A/B - Equipo #{numero}
 _Curso de Programación Asistida con IA - Chicas en Tecnología_ 🚀
 
 ```⚠️ Dejar la opción correcta entre "Ada Lovelace" (Grupo de 17 a 19hs) y "Grace Hopper" (Grupo de 19 a 21hs) y agregar un nombre de equipo ⚠️```
@@ -14,8 +14,6 @@ En este repositorio, se presenta el sitio web realizado durante el curso de prog
 - Explicación de la solución tecnológica que están desarrollando
 > [!TIP]
 > Aprovechen los [formatos del README](https://docs.github.com/es/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax) para escribir diferentes secciones
-
-🗺️ Hoja de ruta del proyecto
 
 🎨 Moodboard
 
